@@ -5,11 +5,12 @@
 // @include     *://*.vk.me/*
 // @include     *://*.vk.cc/*
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @version      1.0
+// @description  Стилизирует сайдбар вк под еву.
 // @author       juh9870
 // @match        http://*/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/juh9870/vkScripts/master/EVAStyle.js
 // ==/UserScript==
 
 var color1="rgba(33, 33, 31, 0.6)";
